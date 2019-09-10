@@ -9,3 +9,6 @@ This commit has *emacs* comands too
 
 ## 0x02-vi
 This commit has *vi* commands too
+
+## 0x03-git
+This commit has git modifications
