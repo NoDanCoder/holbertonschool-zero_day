@@ -6,3 +6,6 @@ use tools kind of *git* and *github*, how to mange a *repository*,
 
 ## 0x01-emacs
 This commit has *emacs* comands too
+
+## 0x02-vi
+This commit has *vi* commands too
