@@ -18,3 +18,9 @@ Undo emacs command
 
 ## 6-quitting
 Quit emacs command
+
+## 100-tetris
+Tretris game lol
+
+## 101-doctor
+Easter egg
