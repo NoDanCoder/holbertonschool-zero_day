@@ -18,3 +18,9 @@ VI command  to move the cursor to the start of the current line
 
 ## 6-end_line
 VI command to move the cursor to the end of the line
+
+## 100-move_to_line
+VI command to move n line
+
+## 101-delete_line
+VI command to delete current and n previous lines
